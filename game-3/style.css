@@ -1,0 +1,26 @@
+*{
+  cursor: url(../images/cursor.png),auto;
+
+}
+
+#snakeboard {
+  height: 60%;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#score {
+  text-align: center;
+  font-size: 140px;
+}
+
+button{
+  background-color: aqua;
+  position: relative;
+  margin-left: 42rem;
+  margin-top: 15rem;
+  padding: 1rem;
+}

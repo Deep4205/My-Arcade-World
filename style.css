@@ -1,0 +1,47 @@
+*{
+    cursor: url(images/cursor.png),auto;
+    
+}
+body{
+    background-image:url(images/sample\ bg.webp);
+}
+h1{
+    font-family:monospace;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+}
+
+#flying-img{
+    
+    height: 300px;
+    width: 265px;
+    display: inline-block;
+   
+}
+.game-list-item{
+    
+    height: 30px;
+    width: 270px;
+    display: inline-block;
+    margin: 2rem;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 15px;
+    background-color:antiquewhite;
+}
+
+.game-list-img{
+    height: 300px;
+    width: 270px;
+    display: inline-block;
+    margin: 2rem;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 15px;
+}
+
+a:link{
+    color: #000;
+    text-decoration: none;
+}
